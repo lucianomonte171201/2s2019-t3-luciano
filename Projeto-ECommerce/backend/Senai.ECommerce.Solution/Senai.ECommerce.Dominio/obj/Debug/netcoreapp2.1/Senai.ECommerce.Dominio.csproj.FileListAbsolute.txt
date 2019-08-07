@@ -1,0 +1,14 @@
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\bin\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.deps.json
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\bin\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.dll
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\obj\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.csprojAssemblyReference.cache
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\obj\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\obj\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.AssemblyInfoInputs.cache
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\obj\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.AssemblyInfo.cs
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\bin\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.runtimeconfig.json
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\bin\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.runtimeconfig.dev.json
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\bin\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.pdb
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\obj\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.dll
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Dominio\obj\Debug\netcoreapp2.1\Senai.ECommerce.Dominio.pdb

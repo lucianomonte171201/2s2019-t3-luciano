@@ -1,0 +1,9 @@
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\bin\Debug\netcoreapp2.1\Senai.ECommerce.Servico.deps.json
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\bin\Debug\netcoreapp2.1\Senai.ECommerce.Servico.dll
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\bin\Debug\netcoreapp2.1\Senai.ECommerce.Servico.pdb
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\obj\Debug\netcoreapp2.1\Senai.ECommerce.Servico.csprojAssemblyReference.cache
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\obj\Debug\netcoreapp2.1\Senai.ECommerce.Servico.csproj.CoreCompileInputs.cache
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\obj\Debug\netcoreapp2.1\Senai.ECommerce.Servico.AssemblyInfoInputs.cache
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\obj\Debug\netcoreapp2.1\Senai.ECommerce.Servico.AssemblyInfo.cs
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\obj\Debug\netcoreapp2.1\Senai.ECommerce.Servico.dll
+C:\Users\47822980807\Desktop\senai-ecommerce-tarde\backend\Senai-ECommerce-Tarde-Backend\Senai.ECommerce.Solution\Senai.ECommerce.Servico\obj\Debug\netcoreapp2.1\Senai.ECommerce.Servico.pdb
